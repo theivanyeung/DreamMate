@@ -1,0 +1,319 @@
+Date : 2023-01-12 22:12:46
+Directory : c:\Users\yeung\Documents\Founder's Club\Dreammate\landing
+Total : 170 files,  43776 codes, 908 comments, 1708 blanks, all 46392 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          7 |     26,559 |         25 |          6 |     26,590 |
+| JavaScript |        157 |     17,071 |        869 |      1,669 |     19,609 |
+| HTML       |          1 |         79 |          6 |          5 |         90 |
+| YAML       |          2 |         31 |          4 |          4 |         39 |
+| Markdown   |          1 |         20 |          0 |         15 |         35 |
+| Properties |          1 |         15 |          4 |          9 |         28 |
+| Ignore     |          1 |          1 |          0 |          0 |          1 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                    |        170 |     43,776 |        908 |      1,708 |     46,392 |
+| . (Files)                                                                                                                            |          9 |     20,426 |         30 |         30 |     20,486 |
+| .github                                                                                                                              |          2 |         31 |          4 |          4 |         39 |
+| .github\workflows                                                                                                                    |          2 |         31 |          4 |          4 |         39 |
+| components                                                                                                                           |        123 |     13,791 |        716 |      1,279 |     15,786 |
+| components (Files)                                                                                                                   |          6 |        950 |         30 |         64 |      1,044 |
+| components\c                                                                                                                         |         30 |      1,896 |          0 |        161 |      2,057 |
+| components\c\contact                                                                                                                 |          3 |        364 |          0 |         22 |        386 |
+| components\c\contact (Files)                                                                                                         |          1 |         32 |          0 |          4 |         36 |
+| components\c\contact\Form                                                                                                            |          2 |        332 |          0 |         18 |        350 |
+| components\c\home                                                                                                                    |         16 |        979 |          0 |         85 |      1,064 |
+| components\c\home (Files)                                                                                                            |          3 |         80 |          0 |         12 |         92 |
+| components\c\home\Description                                                                                                        |          2 |        107 |          0 |          7 |        114 |
+| components\c\home\Inform                                                                                                             |          2 |         65 |          0 |          6 |         71 |
+| components\c\home\Main                                                                                                               |          9 |        727 |          0 |         60 |        787 |
+| components\c\home\Main (Files)                                                                                                       |          2 |         85 |          0 |          7 |         92 |
+| components\c\home\Main\Intro                                                                                                         |          5 |        549 |          0 |         43 |        592 |
+| components\c\home\Main\Intro (Files)                                                                                                 |          3 |        297 |          0 |         23 |        320 |
+| components\c\home\Main\Intro\Mobile                                                                                                  |          2 |        252 |          0 |         20 |        272 |
+| components\c\home\Main\Socials                                                                                                       |          2 |         93 |          0 |         10 |        103 |
+| components\c\layout                                                                                                                  |          7 |        406 |          0 |         40 |        446 |
+| components\c\layout (Files)                                                                                                          |          2 |         68 |          0 |          8 |         76 |
+| components\c\layout\Footer                                                                                                           |          2 |        156 |          0 |         13 |        169 |
+| components\c\layout\Header                                                                                                           |          3 |        182 |          0 |         19 |        201 |
+| components\c\layout\Header (Files)                                                                                                   |          2 |        118 |          0 |         13 |        131 |
+| components\c\layout\Header\modal                                                                                                     |          1 |         64 |          0 |          6 |         70 |
+| components\c\team                                                                                                                    |          4 |        147 |          0 |         14 |        161 |
+| components\c\team (Files)                                                                                                            |          1 |         50 |          0 |          5 |         55 |
+| components\c\team\Main                                                                                                               |          3 |         97 |          0 |          9 |        106 |
+| components\c\team\Main (Files)                                                                                                       |          1 |         33 |          0 |          3 |         36 |
+| components\c\team\Main\Intro                                                                                                         |          2 |         64 |          0 |          6 |         70 |
+| components\global                                                                                                                    |         12 |      1,664 |          8 |        147 |      1,819 |
+| components\global\cards                                                                                                              |          3 |        744 |          4 |         54 |        802 |
+| components\global\cards (Files)                                                                                                      |          1 |         80 |          2 |         15 |         97 |
+| components\global\cards\PostCard                                                                                                     |          2 |        664 |          2 |         39 |        705 |
+| components\global\layout                                                                                                             |          7 |        638 |          2 |         66 |        706 |
+| components\global\layout (Files)                                                                                                     |          1 |         49 |          2 |         12 |         63 |
+| components\global\layout\sections                                                                                                    |          6 |        589 |          0 |         54 |        643 |
+| components\global\layout\sections (Files)                                                                                            |          2 |        364 |          0 |         27 |        391 |
+| components\global\layout\sections\Layout                                                                                             |          2 |         91 |          0 |          8 |         99 |
+| components\global\layout\sections\Mobile                                                                                             |          2 |        134 |          0 |         19 |        153 |
+| components\global\modals                                                                                                             |          1 |        263 |          2 |         23 |        288 |
+| components\global\pages                                                                                                              |          1 |         19 |          0 |          4 |         23 |
+| components\home                                                                                                                      |          3 |        187 |          0 |         17 |        204 |
+| components\messages                                                                                                                  |         12 |      1,859 |         26 |        205 |      2,090 |
+| components\messages (Files)                                                                                                          |          2 |        355 |         13 |         66 |        434 |
+| components\messages\MessageControl                                                                                                   |          5 |        912 |          9 |         87 |      1,008 |
+| components\messages\MessageControl (Files)                                                                                           |          2 |        260 |          2 |         26 |        288 |
+| components\messages\MessageControl\components                                                                                        |          1 |        145 |          2 |         16 |        163 |
+| components\messages\MessageControl\modal                                                                                             |          2 |        507 |          5 |         45 |        557 |
+| components\messages\MessageView                                                                                                      |          5 |        592 |          4 |         52 |        648 |
+| components\messages\MessageView (Files)                                                                                              |          3 |        328 |          0 |         24 |        352 |
+| components\messages\MessageView\Layout                                                                                               |          2 |        264 |          4 |         28 |        296 |
+| components\options                                                                                                                   |         30 |      2,240 |        122 |        278 |      2,640 |
+| components\options\components                                                                                                        |          1 |        184 |          2 |         14 |        200 |
+| components\options\layout                                                                                                            |          4 |        183 |          0 |         23 |        206 |
+| components\options\layout (Files)                                                                                                    |          1 |         72 |          0 |          8 |         80 |
+| components\options\layout\Layout                                                                                                     |          3 |        111 |          0 |         15 |        126 |
+| components\options\layout\Layout (Files)                                                                                             |          1 |         53 |          0 |          7 |         60 |
+| components\options\layout\Layout\Btn                                                                                                 |          2 |         58 |          0 |          8 |         66 |
+| components\options\pages                                                                                                             |         25 |      1,873 |        120 |        241 |      2,234 |
+| components\options\pages (Files)                                                                                                     |          3 |        124 |          0 |         17 |        141 |
+| components\options\pages\AccountPage                                                                                                 |         15 |      1,320 |         10 |        178 |      1,508 |
+| components\options\pages\AccountPage (Files)                                                                                         |          3 |        119 |          2 |         26 |        147 |
+| components\options\pages\AccountPage\Email                                                                                           |          2 |        107 |          0 |         15 |        122 |
+| components\options\pages\AccountPage\Password                                                                                        |          2 |        108 |          0 |         18 |        126 |
+| components\options\pages\AccountPage\Username                                                                                        |          2 |        110 |          0 |         17 |        127 |
+| components\options\pages\AccountPage\modals                                                                                          |          6 |        876 |          8 |        102 |        986 |
+| components\options\pages\AccountPage\modals (Files)                                                                                  |          3 |        655 |          8 |         75 |        738 |
+| components\options\pages\AccountPage\modals\Email(inactive)                                                                          |          3 |        221 |          0 |         27 |        248 |
+| components\options\pages\ProPage                                                                                                     |          6 |        356 |         78 |         33 |        467 |
+| components\options\pages\ProPage (Files)                                                                                             |          2 |         65 |          0 |          6 |         71 |
+| components\options\pages\ProPage\Perks                                                                                               |          2 |        116 |          0 |          8 |        124 |
+| components\options\pages\ProPage\Subscribe                                                                                           |          2 |        175 |         78 |         19 |        272 |
+| components\options\pages\Subscriptions                                                                                               |          1 |         73 |         32 |         13 |        118 |
+| components\profile                                                                                                                   |         13 |      2,493 |        524 |        226 |      3,243 |
+| components\profile\modals                                                                                                            |          7 |      1,303 |        330 |        140 |      1,773 |
+| components\profile\modals (Files)                                                                                                    |          3 |        683 |        318 |         78 |      1,079 |
+| components\profile\modals\CreatePost                                                                                                 |          4 |        620 |         12 |         62 |        694 |
+| components\profile\sections                                                                                                          |          6 |      1,190 |        194 |         86 |      1,470 |
+| components\profile\sections (Files)                                                                                                  |          3 |        316 |          2 |         32 |        350 |
+| components\profile\sections\Header                                                                                                   |          3 |        874 |        192 |         54 |      1,120 |
+| components\register                                                                                                                  |         13 |      2,159 |          4 |        145 |      2,308 |
+| components\register (Files)                                                                                                          |          2 |        142 |          0 |         18 |        160 |
+| components\register\SignIn                                                                                                           |          2 |        190 |          0 |          7 |        197 |
+| components\register\SignUp                                                                                                           |          3 |      1,586 |          4 |         99 |      1,689 |
+| components\register\layout                                                                                                           |          6 |        241 |          0 |         21 |        262 |
+| components\register\layout (Files)                                                                                                   |          2 |         79 |          0 |          9 |         88 |
+| components\register\layout\Header                                                                                                    |          4 |        162 |          0 |         12 |        174 |
+| components\register\layout\Header (Files)                                                                                            |          2 |         63 |          0 |          6 |         69 |
+| components\register\layout\Header\Page                                                                                               |          2 |         99 |          0 |          6 |        105 |
+| components\school                                                                                                                    |          4 |        343 |          2 |         36 |        381 |
+| components\school (Files)                                                                                                            |          3 |        208 |          0 |         21 |        229 |
+| components\school\modal                                                                                                              |          1 |        135 |          2 |         15 |        152 |
+| functions                                                                                                                            |          4 |      6,191 |         77 |         13 |      6,281 |
+| pages                                                                                                                                |         24 |      3,040 |         73 |        334 |      3,447 |
+| pages (Files)                                                                                                                        |          4 |        384 |          6 |         48 |        438 |
+| pages\[profile]                                                                                                                      |          1 |        154 |          3 |         24 |        181 |
+| pages\api                                                                                                                            |          5 |        106 |         10 |         22 |        138 |
+| pages\c                                                                                                                              |          5 |      1,037 |          0 |         35 |      1,072 |
+| pages\c\career                                                                                                                       |          1 |         68 |          0 |          6 |         74 |
+| pages\c\contact                                                                                                                      |          1 |         89 |          0 |          8 |         97 |
+| pages\c\privacy                                                                                                                      |          1 |        140 |          0 |          8 |        148 |
+| pages\c\team                                                                                                                         |          1 |         49 |          0 |          7 |         56 |
+| pages\c\tos                                                                                                                          |          1 |        691 |          0 |          6 |        697 |
+| pages\global                                                                                                                         |          2 |        608 |         12 |         79 |        699 |
+| pages\global (Files)                                                                                                                 |          1 |        296 |          6 |         38 |        340 |
+| pages\global\[school]                                                                                                                |          1 |        312 |          6 |         41 |        359 |
+| pages\home                                                                                                                           |          1 |        297 |         25 |         41 |        363 |
+| pages\messages                                                                                                                       |          2 |         80 |          0 |         11 |         91 |
+| pages\messages (Files)                                                                                                               |          1 |         69 |          0 |          7 |         76 |
+| pages\messages\[id]                                                                                                                  |          1 |         11 |          0 |          4 |         15 |
+| pages\options                                                                                                                        |          3 |        158 |          3 |         32 |        193 |
+| pages\options\account                                                                                                                |          1 |         30 |          0 |          5 |         35 |
+| pages\options\pro                                                                                                                    |          1 |         98 |          3 |         22 |        123 |
+| pages\options\subscriptions                                                                                                          |          1 |         30 |          0 |          5 |         35 |
+| pages\register                                                                                                                       |          1 |        216 |         14 |         42 |        272 |
+| public                                                                                                                               |          1 |         79 |          6 |          5 |         90 |
+| styles                                                                                                                               |          1 |         47 |          0 |          6 |         53 |
+| utils                                                                                                                                |          6 |        171 |          2 |         37 |        210 |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                             | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\.env                                                                       | Properties |         15 |          4 |          9 |         28 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\.eslintrc.json                                                             | JSON       |          3 |          0 |          1 |          4 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\.github\workflows\firebase-hosting-merge.yml                               | YAML       |         17 |          2 |          2 |         21 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\.github\workflows\firebase-hosting-pull-request.yml                        | YAML       |         14 |          2 |          2 |         18 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\.prettierignore                                                            | Ignore     |          1 |          0 |          0 |          1 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\README.md                                                                  | Markdown   |         20 |          0 |         15 |         35 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\SEO.js                                                          | JavaScript |         19 |          0 |          4 |         23 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\contact\Form.js                                               | JavaScript |         32 |          0 |          4 |         36 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\contact\Form\Base.js                                          | JavaScript |        165 |          0 |          9 |        174 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\contact\Form\Full.js                                          | JavaScript |        167 |          0 |          9 |        176 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Description.js                                           | JavaScript |         39 |          0 |          5 |         44 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Description\Base.js                                      | JavaScript |         56 |          0 |          4 |         60 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Description\Full.js                                      | JavaScript |         51 |          0 |          3 |         54 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Inform.js                                                | JavaScript |         30 |          0 |          4 |         34 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Inform\Base.js                                           | JavaScript |         33 |          0 |          3 |         36 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Inform\Full.js                                           | JavaScript |         32 |          0 |          3 |         35 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main.js                                                  | JavaScript |         11 |          0 |          3 |         14 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Intro.js                                            | JavaScript |         56 |          0 |          4 |         60 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Intro\Desktop.js                                    | JavaScript |        140 |          0 |         10 |        150 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Intro\Mobile.js                                     | JavaScript |         17 |          0 |          3 |         20 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Intro\Mobile\Base.js                                | JavaScript |        126 |          0 |         10 |        136 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Intro\Mobile\Full.js                                | JavaScript |        126 |          0 |         10 |        136 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Intro\Tablet.js                                     | JavaScript |        140 |          0 |         10 |        150 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Socials.js                                          | JavaScript |         29 |          0 |          3 |         32 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Socials\Base.js                                     | JavaScript |         48 |          0 |          5 |         53 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\home\Main\Socials\Full.js                                     | JavaScript |         45 |          0 |          5 |         50 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\layout\Footer.js                                              | JavaScript |         36 |          0 |          4 |         40 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\layout\Footer\Base.js                                         | JavaScript |         77 |          0 |          8 |         85 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\layout\Footer\Full.js                                         | JavaScript |         79 |          0 |          5 |         84 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\layout\Header.js                                              | JavaScript |         32 |          0 |          4 |         36 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\layout\Header\Base.js                                         | JavaScript |         51 |          0 |          8 |         59 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\layout\Header\Full.js                                         | JavaScript |         67 |          0 |          5 |         72 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\layout\Header\modal\Drawer.js                                 | JavaScript |         64 |          0 |          6 |         70 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\team\Main.js                                                  | JavaScript |         50 |          0 |          5 |         55 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\team\Main\Intro.js                                            | JavaScript |         33 |          0 |          3 |         36 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\team\Main\Intro\Base.js                                       | JavaScript |         32 |          0 |          3 |         35 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\c\team\Main\Intro\Full.js                                       | JavaScript |         32 |          0 |          3 |         35 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\constants.js                                                    | JavaScript |         46 |         12 |          8 |         66 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\functions.js                                                    | JavaScript |         48 |          0 |          7 |         55 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\cards\PostCard.js                                        | JavaScript |         80 |          2 |         15 |         97 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\cards\PostCard\Base.js                                   | JavaScript |        318 |          0 |         18 |        336 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\cards\PostCard\Full.js                                   | JavaScript |        346 |          2 |         21 |        369 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\layout\Layout.js                                         | JavaScript |         49 |          2 |         12 |         63 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\layout\sections\Desktop.js                               | JavaScript |        243 |          0 |         14 |        257 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\layout\sections\Layout\Base.js                           | JavaScript |         39 |          0 |          4 |         43 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\layout\sections\Layout\Full.js                           | JavaScript |         52 |          0 |          4 |         56 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\layout\sections\Mobile\Footer.js                         | JavaScript |         75 |          0 |          8 |         83 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\layout\sections\Mobile\Header.js                         | JavaScript |         59 |          0 |         11 |         70 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\layout\sections\Tablet.js                                | JavaScript |        121 |          0 |         13 |        134 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\modals\FeedFilter.js                                     | JavaScript |        263 |          2 |         23 |        288 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\global\pages\Loading.js                                         | JavaScript |         19 |          0 |          4 |         23 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\home\Base.js                                                    | JavaScript |         70 |          0 |          5 |         75 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\home\Full.js                                                    | JavaScript |         69 |          0 |          5 |         74 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\home\Header.js                                                  | JavaScript |         48 |          0 |          7 |         55 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\items.js                                                        | JavaScript |        423 |         12 |         23 |        458 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageControl.js                                      | JavaScript |        125 |          4 |         21 |        150 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageControl\BaseView.js                             | JavaScript |        118 |          0 |         11 |        129 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageControl\FullView.js                             | JavaScript |        142 |          2 |         15 |        159 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageControl\components\Messages.js                  | JavaScript |        145 |          2 |         16 |        163 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageControl\modal\CreateMessage.js                  | JavaScript |        370 |          3 |         26 |        399 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageControl\modal\SearchMessage.js                  | JavaScript |        137 |          2 |         19 |        158 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageView.js                                         | JavaScript |        230 |          9 |         45 |        284 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageView\ChatBaseView.js                            | JavaScript |        155 |          0 |         10 |        165 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageView\ChatFullView.js                            | JavaScript |        155 |          0 |         10 |        165 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageView\Layout.js                                  | JavaScript |         18 |          0 |          4 |         22 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageView\Layout\BottomBar.js                        | JavaScript |         74 |          2 |         16 |         92 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\messages\MessageView\Layout\TopBar.js                           | JavaScript |        190 |          2 |         12 |        204 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\components\SignOut.js                                   | JavaScript |        184 |          2 |         14 |        200 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\layout\Layout.js                                        | JavaScript |         72 |          0 |          8 |         80 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\layout\Layout\Btn\PageBtn.js                            | JavaScript |         29 |          0 |          4 |         33 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\layout\Layout\Btn\SelectedPageBtn.js                    | JavaScript |         29 |          0 |          4 |         33 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\layout\Layout\LayoutView.js                             | JavaScript |         53 |          0 |          7 |         60 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage.js                                    | JavaScript |         53 |          0 |          7 |         60 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Email.js                              | JavaScript |         37 |          0 |          7 |         44 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Email\Base.js                         | JavaScript |         54 |          0 |          8 |         62 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Email\Full.js                         | JavaScript |         53 |          0 |          7 |         60 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Password.js                           | JavaScript |         38 |          1 |          9 |         48 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Password\Base.js                      | JavaScript |         54 |          0 |          9 |         63 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Password\Full.js                      | JavaScript |         54 |          0 |          9 |         63 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Username.js                           | JavaScript |         44 |          1 |         10 |         55 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Username\Base.js                      | JavaScript |         55 |          0 |         10 |         65 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\Username\Full.js                      | JavaScript |         55 |          0 |          7 |         62 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\modals\Email(inactive)\ChangeEmail.js | JavaScript |         75 |          0 |          7 |         82 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\modals\Email(inactive)\SendCode.js    | JavaScript |         68 |          0 |         10 |         78 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\modals\Email(inactive)\VerifyCode.js  | JavaScript |         78 |          0 |         10 |         88 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\modals\Email.js                       | JavaScript |        214 |          2 |         27 |        243 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\modals\Password.js                    | JavaScript |        231 |          2 |         18 |        251 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\AccountPage\modals\Username.js                    | JavaScript |        210 |          4 |         30 |        244 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\ProPage.js                                        | JavaScript |         22 |          0 |          3 |         25 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\ProPage\Perks.js                                  | JavaScript |         29 |          0 |          3 |         32 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\ProPage\Perks\Base.js                             | JavaScript |         58 |          0 |          4 |         62 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\ProPage\Perks\Full.js                             | JavaScript |         58 |          0 |          4 |         62 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\ProPage\Subscribe.js                              | JavaScript |         36 |          0 |          3 |         39 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\ProPage\Subscribe\Base.js                         | JavaScript |         87 |         39 |          8 |        134 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\ProPage\Subscribe\Full.js                         | JavaScript |         88 |         39 |         11 |        138 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\SubscriptionPage.js                               | JavaScript |         49 |          0 |          7 |         56 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\options\pages\Subscriptions\Manage.js                           | JavaScript |         73 |         32 |         13 |        118 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\placeholderData.js                                              | JavaScript |        303 |          0 |          4 |        307 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\modals\CreatePost.js                                    | JavaScript |        246 |          6 |         42 |        294 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\modals\CreatePost\First.js                              | JavaScript |        245 |          0 |         26 |        271 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\modals\CreatePost\Loading.js                            | JavaScript |         14 |          0 |          3 |         17 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\modals\CreatePost\Second.js                             | JavaScript |        323 |         12 |         30 |        365 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\modals\CreatePost\Submit.js                             | JavaScript |         38 |          0 |          3 |         41 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\modals\EditProfile.js                                   | JavaScript |        384 |        312 |         30 |        726 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\modals\Socials.js                                       | JavaScript |         53 |          0 |          6 |         59 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\sections\About.js                                       | JavaScript |        117 |          0 |          9 |        126 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\sections\Header.js                                      | JavaScript |         65 |          0 |          3 |         68 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\sections\Header\Desktop.js                              | JavaScript |        243 |         50 |         16 |        309 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\sections\Header\Mobile.js                               | JavaScript |        382 |         98 |         23 |        503 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\sections\Header\Tablet.js                               | JavaScript |        249 |         44 |         15 |        308 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\profile\sections\Posts.js                                       | JavaScript |        134 |          2 |         20 |        156 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\SignIn.js                                              | JavaScript |         64 |          0 |         10 |         74 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\SignIn\Base.js                                         | JavaScript |         89 |          0 |          4 |         93 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\SignIn\Full.js                                         | JavaScript |        101 |          0 |          3 |        104 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\SignUp.js                                              | JavaScript |         78 |          0 |          8 |         86 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\SignUp\First.js                                        | JavaScript |        486 |          2 |         36 |        524 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\SignUp\Second.js                                       | JavaScript |        676 |          0 |         34 |        710 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\SignUp\Third.js                                        | JavaScript |        424 |          2 |         29 |        455 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\layout\Footer.js                                       | JavaScript |         42 |          0 |          3 |         45 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\layout\Header.js                                       | JavaScript |         37 |          0 |          6 |         43 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\layout\Header\Page.js                                  | JavaScript |         35 |          0 |          3 |         38 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\layout\Header\PageVisual.js                            | JavaScript |         28 |          0 |          3 |         31 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\layout\Header\Page\Base.js                             | JavaScript |         44 |          0 |          3 |         47 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\register\layout\Header\Page\Full.js                             | JavaScript |         55 |          0 |          3 |         58 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\school\Base.js                                                  | JavaScript |         68 |          0 |          6 |         74 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\school\Full.js                                                  | JavaScript |         69 |          0 |          5 |         74 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\school\Header.js                                                | JavaScript |         71 |          0 |         10 |         81 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\school\modal\Search.js                                          | JavaScript |        135 |          2 |         15 |        152 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\components\server.js                                                       | JavaScript |        111 |          6 |         18 |        135 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\firebase.indexes.json                                                      | JSON       |         51 |          0 |          1 |         52 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\firebase.json                                                              | JSON       |          4 |         25 |          0 |         29 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\functions\.eslintrc.js                                                     | JavaScript |         14 |          0 |          1 |         15 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\functions\index.js                                                         | JavaScript |          0 |         77 |         10 |         87 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\functions\package-lock.json                                                | JSON       |      6,150 |          0 |          1 |      6,151 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\functions\package.json                                                     | JSON       |         27 |          0 |          1 |         28 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\next.config.js                                                             | JavaScript |          8 |          1 |          2 |         11 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\package-lock.json                                                          | JSON       |     20,279 |          0 |          1 |     20,280 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\package.json                                                               | JSON       |         45 |          0 |          1 |         46 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\404.js                                                               | JavaScript |        144 |          0 |         10 |        154 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\[profile]\index.js                                                   | JavaScript |        154 |          3 |         24 |        181 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\_app.js                                                              | JavaScript |        109 |          3 |         20 |        132 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\_document.js                                                         | JavaScript |         22 |          0 |          3 |         25 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\api\contact.js                                                       | JavaScript |         37 |          0 |          5 |         42 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\api\hello.js                                                         | JavaScript |          3 |          1 |          2 |          6 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\api\pro.js                                                           | JavaScript |         26 |          3 |          3 |         32 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\api\stripe-webhook.js                                                | JavaScript |         20 |          6 |          7 |         33 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\api\welcome.js                                                       | JavaScript |         20 |          0 |          5 |         25 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\c\career\index.js                                                    | JavaScript |         68 |          0 |          6 |         74 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\c\contact\index.js                                                   | JavaScript |         89 |          0 |          8 |         97 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\c\privacy\index.js                                                   | JavaScript |        140 |          0 |          8 |        148 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\c\team\index.js                                                      | JavaScript |         49 |          0 |          7 |         56 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\c\tos\index.js                                                       | JavaScript |        691 |          0 |          6 |        697 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\global\[school]\index.js                                             | JavaScript |        312 |          6 |         41 |        359 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\global\index.js                                                      | JavaScript |        296 |          6 |         38 |        340 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\home\index.js                                                        | JavaScript |        297 |         25 |         41 |        363 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\index.js                                                             | JavaScript |        109 |          3 |         15 |        127 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\messages\[id]\index.js                                               | JavaScript |         11 |          0 |          4 |         15 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\messages\index.js                                                    | JavaScript |         69 |          0 |          7 |         76 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\options\account\index.js                                             | JavaScript |         30 |          0 |          5 |         35 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\options\pro\index.js                                                 | JavaScript |         98 |          3 |         22 |        123 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\options\subscriptions\index.js                                       | JavaScript |         30 |          0 |          5 |         35 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\pages\register\index.js                                                    | JavaScript |        216 |         14 |         42 |        272 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\public\index.html                                                          | HTML       |         79 |          6 |          5 |         90 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\styles\customTheme.js                                                      | JavaScript |         47 |          0 |          6 |         53 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\utils\AuthRouting.js                                                       | JavaScript |         20 |          0 |          9 |         29 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\utils\algolia.js                                                           | JavaScript |         28 |          0 |         10 |         38 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\utils\context.js                                                           | JavaScript |         23 |          0 |          2 |         25 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\utils\firebase.js                                                          | JavaScript |         18 |          2 |          5 |         25 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\utils\hooks.js                                                             | JavaScript |         79 |          0 |          8 |         87 |
+| c:\Users\yeung\Documents\Founder's Club\Dreammate\landing\utils\stripe.js                                                            | JavaScript |          3 |          0 |          3 |          6 |
+| Total                                                                                                                                |            |     43,776 |        908 |      1,708 |     46,392 |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
